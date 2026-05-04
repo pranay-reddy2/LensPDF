@@ -1,0 +1,10 @@
+{
+  "name": "LensPDF",
+  "description": "A strictly grounded PDF conversational agent that answers queries only from uploaded documents with citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "PDF Analysis",
+    "Conversational AI",
+    "Grounded Retrieval"
+  ]
+}
